@@ -6,8 +6,8 @@
 }
 
 body{
-  background:#0d0d15;
-  color:white;
+  background:#ffffff;
+  color:#111;
 }
 
 header{
@@ -58,8 +58,10 @@ nav a{
 }
 
 .card, .project{
-  background:rgba(255,255,255,0.05);
+  
   padding:25px;
   border-radius:15px;
   backdrop-filter:blur(10px);
+  background:#f2f2f2;
+}
 }
